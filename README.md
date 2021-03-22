@@ -6,18 +6,18 @@ You just have to replace the [file_path_] text in the script with your local com
 
 Required tools for this to exceute properly :
 
-assetfinder
-amass
-arjun
-cloudfail
-corscanner
-dirsearch
-subjack
-subover
-subzy
-subfinder
-scripthunter
-waybackurls
+assetfinder,
+amass,
+arjun,
+cloudfail,
+corscanner,
+dirsearch,
+subjack,
+subover,
+subzy,
+subfinder,
+scripthunter,
+waybackurls,
 Tko-subs
 
 To start :

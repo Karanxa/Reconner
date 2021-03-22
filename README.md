@@ -10,7 +10,7 @@ First of all you can direclty exceute the script by providing the necessary exce
 
 Command :-  ./reconner.sh [target name] ( for example : ./reconner.sh tesla.com )
 
-The above given command will execute the script and provid you with the recon data, given that all the necessary tools are alredy installed in your given enviornment and all them are on the right path.
+The above given command will execute the script and provide you with the recon data, given that all the necessary tools are already installed in your given enviornment and all them are on the right path.
 
 Required tools for this to exceute properly :
 

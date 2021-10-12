@@ -97,7 +97,7 @@ cd
 }
 
 smuggler(){
-echo -e "---------------------------------------------------------------------------------------------------------------------------------------------------"
+echo -e "---------------------------------------------------------Smuggler----------------------------------------------------------------------------------"
 echo -e "HTTP Request Smuggling Check"
 cat file_path/$1.txt | python3 file_path/smuggler/smuggler.py | tee -a file_path/smuggler/$1_smuggler.txt
 }
@@ -124,4 +124,5 @@ smuggler $1
 scripthunter $1
 arjun $1
 }
+
 

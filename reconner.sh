@@ -89,7 +89,7 @@ nuclei -l file_path/$1/wayback/urls.txt -t file_path/vulnerabilities/open-redire
 
 
 scripthunter(){
-echo -e "---------------------------------------------------------------------------------------------------------------------------------------------------"
+echo -e "-------------------------------------------------------Script Hunter----------------------------------------------------------------------------------"
 echo -e "Script hunting"
 cd file_path/scripthunter
 ./scripthunter.sh $1 | tee -a file_path/results/scripts/$1_Scripts.txt
